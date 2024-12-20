@@ -36,3 +36,11 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+#title-container {
+    /* display: flex; */
+    border: 1px solid black;
+    /* position: absolute;
+    right: 30px;
+    top: 30px; */
+}
